@@ -11,8 +11,11 @@ The purpose of this project is to support payrol accuracy, regulatory compliance
 **Targeted Audience**
 
 1.) HR & Payroll Teams 
+
 2.) Finance & Accounting Teams 
+
 3.) Internal & External Auditors 
+
 4.) Senior Management & Business Owners
 
 **Decisions Enabled**
@@ -23,13 +26,20 @@ Assessment of payroll cost impact under the 2025 tax reform Improved tax complia
 
 The dataset used in this project represents a simulated employee payroll register, including Employee earnings and allowances Taxable income components PAYE tax bands and rates (2025 structure Employee-level and summary payroll outputs
 
-**expected Outcome**
+**Expected Outcome**
 
 1.) Design and restructure a legacy Excel payroll system to comply with the Nigeria Personal Income Tax Reform Act 2025.
+
 2.) Replace hard-coded tax rates and complex nested IF logic with flexible table-driven PAYE calculations.
+
 3.) Build dynamic PAY E tax band tables that can be updated easily when tax laws change
+
 4.) Develop clear and auditable Excel logic for employee-level PAYE computation.
+
 5.) Support payroll processing for organisations with 1 to 1,000 employees.
+
 6.) Create business-level summary reporting for HR, Finance, and Management review.
+
 7.) Structure the model with clear separation between inputs, calculations. and outputs to improve transparency.
+
 8.) Ensure the final model is easy to review by internal and external auditors.
