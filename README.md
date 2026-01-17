@@ -6,7 +6,15 @@ This project simulates a real-world payroll and tax compliance engagement where 
 
 **Business Obiective**
 
-The purpose of this project is to support payrol accuracy, regulatory compliance and financial transparency by answering key business questions such as: Are employee PAYE deductions correctly calculated under the 2025 tax bands? How do changes in tax law impact employee net pay and total payroll cost? Can the payroll model adapt quickly to future tax reforms without rewriting formulas? Is the PAYE computation logic clear, traceable, and auditable?
+The purpose of this project is to support payrol accuracy, regulatory compliance and financial transparency by answering key business questions such as: 
+
+1.) Are employee PAYE deductions correctly calculated under the 2025 tax bands? 
+
+2.) How do changes in tax law impact employee net pay and total payroll cost? 
+
+3.) Can the payroll model adapt quickly to future tax reforms without rewriting formulas? 
+
+4.) Is the PAYE computation logic clear, traceable, and auditable?
 
 **Targeted Audience**
 
